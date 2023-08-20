@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9aa6f44-3f99-4964-a7fb-ed516d2b5d87" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/kob/backend/config/CorsConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/kob/backend/controller/pk/returnInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/kob/backend/controller/pk/returnInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/App.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +79,7 @@
       <workItem from="1692410926616" duration="2995000" />
       <workItem from="1692425343220" duration="1620000" />
       <workItem from="1692450568562" duration="1857000" />
-      <workItem from="1692498209130" duration="389000" />
+      <workItem from="1692498209130" duration="908000" />
     </task>
     <servers />
   </component>
